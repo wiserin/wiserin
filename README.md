@@ -1,6 +1,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wiserin&theme=tokyo-night)
 
 
+### WakaTime
+
 <!--START_SECTION:waka-->
 
 ```txt
