@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 21 August 2026
+From: 22 August 2025 - To: 22 August 2026
 
-Total Time: 916 hrs 33 mins
+Total Time: 917 hrs 22 mins
 
-C++                                393 hrs 19 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.51 %
-Python                             291 hrs 52 mins       ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.80 %
-YAML                               109 hrs 1 min         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.51 %
-Other                              30 hrs 58 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.27 %
+C++                                393 hrs 19 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.47 %
+Python                             292 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.85 %
+YAML                               109 hrs 3 mins        ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.50 %
+Other                              31 hrs 6 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.28 %
 ```
 
 <!--END_SECTION:waka-->
